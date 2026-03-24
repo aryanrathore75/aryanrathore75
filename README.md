@@ -32,7 +32,7 @@
 
 ## 📊 GitHub Stats:
 
-<table align="center">
+<table align="start">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=aryanrathore75&show_icons=true&theme=radical&custom_title=Stats&include_all_commits=true" alt="GitHub Stats" />
@@ -47,7 +47,7 @@
 
 ## 🔥 GitHub Streak:
 
-<p align="center">
+<p align="start">
   <img src="https://streak-stats.demolab.com?user=aryanrathore75&theme=radical" alt="GitHub Streak" />
 </p>
 
