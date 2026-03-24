@@ -32,7 +32,7 @@
 
 ## 📊 GitHub Stats:
 
-<p align="center">
+<p align="start">
   <img src="https://github-readme-stats.vercel.app/api?username=aryanrathore75&show_icons=true&theme=radical" alt="GitHub Stats" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanrathore75&layout=donut&theme=radical" alt="Top Languages by Commit" />
@@ -42,7 +42,7 @@
 
 ## 🔥 GitHub Streak:
 
-<p align="center">
+<p align="start">
   <img src="https://streak-stats.demolab.com?user=aryanrathore75&theme=radical" alt="GitHub Streak" />
 </p>
 
