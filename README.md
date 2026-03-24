@@ -29,19 +29,26 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
+
 ## 📊 GitHub Stats:
 
-<p align="center">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=aryanrathore75&show_icons=true&theme=radical&hide_title=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanrathore75&layout=donut&theme=radical" alt="Top Languages by Commit" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=aryanrathore75&show_icons=true&theme=radical&custom_title=Stats&include_all_commits=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanrathore75&layout=donut&theme=radical" alt="Top Languages by Commit" />
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 🔥 GitHub Streak:
 
-<p align="start">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=aryanrathore75&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
-
