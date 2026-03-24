@@ -1,4 +1,4 @@
-# Hi there 👋, I'm @aryanrathore75
+# Hi there 👋, I'm @Aryan Rathore
 
 - 🌐 I'm interested in web development, especially working with HTML, CSS, and JavaScript
 - 🌱 I'm currently learning backend development and improving my skills
@@ -32,10 +32,16 @@
 
 ## 📊 GitHub Stats:
 
-<p align="start">
-  <img height="220px" width="400px" src="https://github-readme-stats.vercel.app/api?username=aryanrathore75&show_icons=true&theme=radical&hide_title=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="220px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanrathore75&layout=donut&theme=radical&title_color=ff6e96" alt="Top Languages by Commit" />
-</p>
+<table align="start">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=aryanrathore75&show_icons=true&theme=radical&hide_title=true&rank_icon=github" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanrathore75&layout=donut&theme=radical&title_color=ff6e96" alt="Top Languages by Commit" />
+    </td>
+  </tr>
+</table>>
 
 ---
 
