@@ -32,8 +32,8 @@
 
 ## 📊 GitHub Stats:
 
-<p align="start">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=aryanrathore75&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />
+<p align="center">
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=aryanrathore75&show_icons=true&theme=radical&hide_title=true&include_all_commits=true" alt="GitHub Stats" />
   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanrathore75&layout=donut&theme=radical" alt="Top Languages by Commit" />
 </p>
 
