@@ -48,12 +48,3 @@
 
 ---
 
-## 🚀 My Projects:
-
-| Project | Description | Language |
-|--------|-------------|----------|
-| [delta-demo](https://github.com/aryanrathore75/delta-demo) | Demo for Git & GitHub class | HTML |
-| [TodoApp](https://github.com/aryanrathore75/TodoApp) | A simple Todo application | JavaScript |
-| [Saimon-says-game](https://github.com/aryanrathore75/Saimon-says-game) | Simon Says memory game | JavaScript |
-| [Weather-App](https://github.com/aryanrathore75/Weather-App) | Live weather application | HTML |
-| [WanderLust](https://github.com/aryanrathore75/WanderLust) | Travel listing app | JavaScript |
