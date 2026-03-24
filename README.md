@@ -33,9 +33,8 @@
 ## 📊 GitHub Stats:
 
 <p align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanrathore75&show_icons=true&theme=radical" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanrathore75&layout=donut&theme=radical" alt="Top Languages by Commit" />
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=aryanrathore75&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanrathore75&layout=donut&theme=radical" alt="Top Languages by Commit" />
 </p>
 
 ---
