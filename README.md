@@ -3,7 +3,7 @@
 - 🌐 I'm interested in web development, especially working with HTML, CSS, and JavaScript
 - 🌱 I'm currently learning backend development and improving my skills
 - 💞️ I'm looking to collaborate on open-source projects and any cool frontend projects
-- 📫 How to reach me: your-email@gmail.com
+- 📫 How to reach me: rathorearyan973@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring new technologies and building projects like Weather Apps, Games, and Travel Apps!
 
@@ -11,10 +11,10 @@
 
 ## 🌐 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aryanrathore75)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryanrathore75)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Aryan110/)
-```
 
+---
 
 ## 💻 Tech Stack:
 
